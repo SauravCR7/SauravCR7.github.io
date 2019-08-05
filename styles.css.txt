@@ -1,0 +1,5 @@
+html
+{
+border: 30px solid #ffc733;
+padding:10px;
+}
